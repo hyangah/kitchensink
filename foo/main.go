@@ -1,5 +1,3 @@
-//go:build 1.22
-
 // Package foo is nothing interesting
 package foo
 
